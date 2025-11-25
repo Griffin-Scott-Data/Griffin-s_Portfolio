@@ -1,5 +1,5 @@
 # Griffin's Portfolio
 
-# DataCamp Projects
+## DataCamp Projects
 
-## [Analyzing and Formatting PostgreSQL Sales Data, SQL]()
+### [Analyzing and Formatting PostgreSQL Sales Data, SQL]()
