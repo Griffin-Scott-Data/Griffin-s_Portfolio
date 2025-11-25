@@ -1,2 +1,5 @@
-# Griffin-s_Portfolio
-Analytics Portfolio
+# Griffin's Portfolio
+
+# DataCamp Projects
+
+## [Analyzing and Formatting PostgreSQL Sales Data, SQL]()
