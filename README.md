@@ -1,4 +1,5 @@
 # Griffin's Portfolio
+Welcome to the portfolio. Below you can find a number of completed DataCamp 'Real World Projects.'
 
 ## DataCamp Projects
 
