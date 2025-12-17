@@ -12,7 +12,7 @@ Welcome to the portfolio. Below you can find a number of DataCamp's real world p
 ### [Analyzing Motorcyle Part Sales (SQL)](https://github.com/Griffin-Scott-Data/datacamp-projects/tree/main/Analyzing%20Motorcycle%20Part%20Sales)
 > Investigating a company's motorcycle part sales data to improve understanding of revenue streams.
 
-### [Impact Analysis of GoodThought NGO Initiatives (SQL)]()
+### [Impact Analysis of GoodThought NGO Initiatives (SQL)](https://github.com/Griffin-Scott-Data/datacamp-projects/tree/main/Impact%20Analysis%20of%20GoodThought%20NGO%20Initiatives)
 > Analysis of GoodThought NGO key metrics to assess initiative and program effectiveness.
 
 ### [Uncovering the World's Oldest Businesses (SQL)]()
