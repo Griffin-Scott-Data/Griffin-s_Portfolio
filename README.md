@@ -1,5 +1,5 @@
 # Griffin's Portfolio
-Welcome to the portfolio. Below you can find a number of DataCamp's real world projects that I have completed.
+Welcome to the portfolio! Below you can find a number of DataCamp's real world projects that I have completed with documentation of my solutions.
 
 ## [DataCamp Projects](https://github.com/Griffin-Scott-Data/datacamp-projects)
 
