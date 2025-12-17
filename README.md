@@ -15,8 +15,8 @@ Welcome to the portfolio. Below you can find a number of DataCamp's real world p
 ### [Impact Analysis of GoodThought NGO Initiatives (SQL)](https://github.com/Griffin-Scott-Data/datacamp-projects/tree/main/Impact%20Analysis%20of%20GoodThought%20NGO%20Initiatives)
 > Analysis of GoodThought NGO key metrics to assess initiative and program effectiveness.
 
-### [Uncovering the World's Oldest Businesses (SQL)]()
->
+### [Uncovering the World's Oldest Businesses (SQL)](https://github.com/Griffin-Scott-Data/datacamp-projects/tree/main/Uncovering%20the%20World's%20Oldest%20Businesses)
+> Exploration of data on the world's oldest businesses that employs join and data manipulation techniques.
 
 ### [Exploring Trends in American Baby Names (SQL)]()
 >
