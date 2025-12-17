@@ -9,11 +9,11 @@ Welcome to the portfolio. Below you can find a number of DataCamp's real world p
 ### [Factors that Fuel Student Performance (SQL)](https://github.com/Griffin-Scott-Data/datacamp-projects/tree/main/Factors%20that%20Fuel%20Student%20Performance)
 > Exploration of student performance based on various factors such as study habits, sleep patterns, parental involvement, and access to resources.
 
-### [Analyzing Motorcyle Part Sales (SQL)]()
+### [Analyzing Motorcyle Part Sales (SQL)](https://github.com/Griffin-Scott-Data/datacamp-projects/tree/main/Analyzing%20Motorcycle%20Part%20Sales)
 > Investigating a company's motorcycle part sales data to improve understanding of revenue streams.
 
 ### [Impact Analysis of GoodThought NGO Initiatives (SQL)]()
->
+> Analysis of GoodThought NGO key metrics to assess initiative and program effectiveness.
 
 ### [Uncovering the World's Oldest Businesses (SQL)]()
 >
