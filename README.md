@@ -18,8 +18,5 @@ Welcome to the portfolio. Below you can find a number of DataCamp's real world p
 ### [Uncovering the World's Oldest Businesses (SQL)](https://github.com/Griffin-Scott-Data/datacamp-projects/tree/main/Uncovering%20the%20World's%20Oldest%20Businesses)
 > Exploration of data on the world's oldest businesses that employs join and data manipulation techniques.
 
-### [Exploring Trends in American Baby Names (SQL)]()
->
-
 ### [Examining the History of LEGO Sets (Python)](https://github.com/Griffin-Scott-Data/datacamp-projects/tree/main/Examining%20the%20History%20of%20LEGO%20Sets)
 > Data manipulation techniques are employed to analyze the history of LEGO sets.
